@@ -10,6 +10,7 @@ public class SpringbootStudyApplication {
         SpringApplication.run(SpringbootStudyApplication.class, args);
         System.out.println("springboot project run suncess!");
         System.out.println("更新远程仓库代码");
+        System.out.println("拉取远程仓库代码");
     }
 
 }
